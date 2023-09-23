@@ -1,0 +1,65 @@
+
+
+ 
+##################################################################################################################
+############################		INFOS POUR LES PERSONNES QUI DESIRENT PARTICIPER		##################################
+ ################################	AU DEVELOPPEMENT DU LOGICIEL SPOUTNX	#######################################
+##################################################################################################################
+
+Tout d'abord,  un grand merci à vous pour votre potentielle aide. Même si vous n'êtes pas bon en informatique, vous pouvez quand même aider! Il y a toujours quelque chose à faire sur un logiciel (traductions, icônes, ...)
+vous pouvez utiliser l'adresse mail suivante: 			spoutnx23@gmail.com
+N'hésitez pas à partager vos idées!!
+www.spoutnx.wixsite.com/spoutnx
+
+
+1) Explication générale:
+
+SpoutnX est développé en Python par un bénévole passionné d'astronomie et d'informatique. Son code source est téléchargeable depuis Github. Il est compilé à l'aide de l'outil Pyinstaller. Pour la version windows, l'installateur est créé avec le logiciel InnoSetup Compiler.
+S'il vous plaît veuillez garder à l'esprit que ce code n'est pas écrit par un professionnel mais par un amateur qui a appris en autodidacte, aussi veuillez excuser les possibles (même certaines) grossièretés ou maladresses dans le code.
+Le code source que vous pouvez télécharger sur Github est la version Linux du logiciel (même si peu de commandes diffèrent selon les OS).
+
+
+
+2) Architecture générale du code :
+
+L'interface graphique est basée sur la bibliothèque PySide6 (Qt). Le code est divisé en plusieurs scripts: 
+- Le script "maître": qui gère la QMainWindow, les fonctions telles que Enregistrer sous, A propos, Aide, etc
+- Les scripts correspondants à chacun des 7 objectifs (suivant les versions) qui se lancent lorsque l'utilisateur choisi son objectif dans la MainWindow. Ce sont eux qui gèrent les fenêtres Caractéristiques et Résultats.
+- Le script printpdf, qui s'occupe de la fonction d'exportation au format pdf
+- Le script visualisation, qui gère les différentes visualisation des modules
+
+Les visualisations sont réalisées avec la bibliothèque Matplotlib, et les pdfs sont générés avec la bibliothèque FPDF
+
+
+
+
+3) Extension et système de fichiers:
+
+Le logiciel enregistre les résultats sous la forme d'un fichier texte auquel on a changé l'extension en .sptx (extension créée exprès)
+
+Quelque soit le système d'exploitation sauf MacOS, le logiciel crée ou utilise un répertoire de travail, situé dans le dossier utilisateur, et nommé SpoutnX.
+A chaque fois que l'utilisateur fait un calcul, les résultats s'enregistrent dans un fichier data.sptx. Lorsque l'utilisateur veut enregistrer son fichier, c'est ce fichier qui est renommé et déplacé dans l'emplacement de son choix. Ce répertoire contient aussi le fichier langue, ainsi que le fichier user.txt, qui contient pour l'instant uniquement la métrique perso de l'utilisateur si il en a rentré une. Quand l'utilisateur ouvre une visualisation, un fichier pngplot.png se crée également dans le répertoire de travail.
+Le logiciel fonctionne avec des fichiers langue, qui contiennent ligne par ligne tous les textes à afficher.
+
+Architecture du fichier .sptx:
+- ligne 1: numéro correspondant à l'objectif choisi par l'utilisateur
+- ligne 2: numéro correspondant au sous-objectif
+- lignes 3 - ... : chiffres correspondants aux données fournies par l'utilisateur et aux calculs intermédiaires
+- lignes ... - ... : Résultats calculé par le logiciel (lignes varient suivant le nb de résultats, etc)
+- lignes ... - 22: Lignes non utilisées (donc valeur 0) jusqu'à ligne 22: En cas de complexification future des modèles/calculs
+- lignes 23 - 53: Lignes servant à l'exportation en pdf
+	- lignes 23 - 32: Lignes servant à afficher les données utilisateur: lignes impaires = titres des données (numéro de la ligne du fichier langue), lignes paires = valeur des données tapées
+	- lignes 33 - 43: Première plage de résultats:
+		- ligne 33: Titre de l'objectif choisi (num ligne fichier lang)
+		- ligne 34: titre de la plage de résultats (num ligne fichier lang)
+		- lignes 35 - 42: Titres des résultats et résultats (même format que pour les données user)
+		- ligne 43: Ligne de texte amenant des précisions (num ligne fichier lang)
+	- lignes 44 - 53:  Deuxième plage de résultats
+		- ligne 44: Titre de la plage de résultats (num ligne fichier lang)
+		- lignes 45 - 52: Pareil que lignes 35 - 42
+		- ligne 53: Valeur = 1 ou 0 Spécifie si il y a une visualisation à afficher
+
+
+Merci encore pour votre aide
+##########################################		spoutnx23@gmail.com		##############################################
+Tom Lafond, créateur et développeur de SpoutnX
