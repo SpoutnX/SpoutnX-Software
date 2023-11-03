@@ -1,0 +1,11 @@
+SpoutnX est un petit logiciel gratuit qui permet de resoudre
+des problemes mathematiques en utilisant la relativite
+generale et la relativite restreinte. Il est developpe
+benevolement et est sans cesse ameliore et corrige.
+N'hesitez pas a partager vos impressions a cette adresse mail:
+
+Version 6.2
+31/10/23
+
+spoutnx.wixsite.com/spoutnx
+spoutnx23@gmail.com

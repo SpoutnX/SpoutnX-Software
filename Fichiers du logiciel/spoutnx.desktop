@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=SpoutnX
+Exec=/usr/bin/SpoutnX
+Icon=/usr/lib/spoutnx/icone3.png
+Type=Application
+Categories=Science
+Terminal=false

@@ -1,0 +1,193 @@
+Bienvenido a SpoutnX
+?Cual es tu objetivo?
+Archivo
+A proposito
+Ajustes
+Calcular la dilatacion del tiempo
+Calcular una aceleracion
+Calcular un cambio espectral
+Calcular una velocidad
+Calcular los efectos de la gravedad sobre la luz.
+Busca las caracteristicas de un agujero negro
+Validar
+Eleccion de la metrica
+Otro
+ver en wikipedia
+Velocidad angular del objeto (rad/s)
+Altitud r (m)
+Masa del objeto de atraccion (kg)
+Calcular
+Velocidad espacial del objeto (m/s)
+Dilatacion del tiempo
+(en comparacion con un observador distante)
+Formula utilizada:
+Aceleracion de una caida vertical
+Esta metrica describe un universo vacio y plano.
+por lo tanto no hay aceleracion posible
+No hay efecto de Einstein
+Distancia M desde el transmisor (m)
+Caracteristicas del problema
+Resultados
+Por una caida vertical
+Por lo tanto, no podemos calcular una velocidad a partir de esta matrica.
+Velocidad de un objeto durante una caida vertical:
+Radio de Schwarzschild
+(para el cual v=0):
+Calculo de la desviacion de un foton
+por un objeto de Schwarzschild
+Parametro de impacto de la trayectoria del foton(b)
+Es la distancia entre el foton y la recta perpendicular.
+tiene su trayectoria pasando por el centro del objeto de masa M
+angulo de desviacion (rad)
+Vista
+Eleccion de la descripcion del agujero negro
+Objeto esferico y estatico
+Agujero negro giratorio
+Metrica de Schwarzschild
+Masa del agujero negro (kg)
+Altitud
+Calcular la masa de un agujero negro.
+con un cambio espectral
+Valor de desplazamiento espectral
+Distancia del transmisor
+escalar de Kretschmann
+Calcular la radiacion de Hawking
+temperatura del agujero negro
+tiempo de evaporacion del agujero negro
+Esta radiacion permanece hoy en estado de suposicion.
+Nadie ha sido capaz de probarlo todavia.
+Por lo tanto, estos calculos deben tomarse con pinzas.
+Metrica Kerr
+Momento cinetico (angular) del agujero negro
+Colatitud (rad)
+Caracteristicas de un agujero negro de Kerr
+Tasa de rotacion (a)
+Parametro de giro (a*)
+Horizonte de sucesos exterior: r+
+Horizonte de eventos interno: r-
+Abrir
+Guardar como
+Preferencias/configuraciones
+Agregar una metrica
+Ingrese solo números
+sin variables ni operaciones
+Nombre de tu metrica
+Descripcion
+Cambiar idioma
+Caracteristicas de un objeto de Schwarzschild
+Masa de un objeto de Schwarzschild:
+Masa
+Cambio espectral
+Reinicie el software para que
+Los cambios surten efecto
+desviacion de un foton
+Efecto Shapiro
+Eleccion de calculo
+Coordenada radial para la cual la trayectoria
+fotones esta mas cerca del objeto que los atrae:
+Coordenada radial del objeto A:
+en relacion con el objeto que atrae
+Coordenada radial del objeto B:
+Retraso (s) para ir del objeto A al B
+Limite exterior de estacionariedad: rS+
+Limite interior de estacionariedad: rS-
+Estructura de un agujero negro de Kerr:
+Trayectoria de fotones
+Desviacion de un foton por un objeto de Schwarzschild
+Con los resultados reales previamente calculados
+Debido a una velocidad
+Debido a un objeto masivo
+Calcular una lente gravitatoria (opcional)
+Radio de Einstein:
+Distancia desde obs. y el objeto masivo
+Calcular una precesion geodesica
+Calcular el efecto De Sitter o
+precesion geodesica
+Velocidad angular de precesion(rad/s)
+Angulo de precesion despues de una orbita (rad)
+Ayuda
+volver a los datos
+Opcion: Calcular la masa de un agujero negro
+con un cambio espectral
+Introducir datos
+Caracteristicas de un agujero negro
+coordenadas de tiempo y longitud
+Ultimo radio de orbita estable (Isco)
+Velocidad angular orbital (rad/s)
+Velocidad orbital
+Calcular el efecto de la velocidad sobre la luz.
+en relatividad especial
+Angulo formado por el rayo de luz entrante,
+y la trayectoria del observador:
+Asi como el efecto Doppler-Fizeau
+Frecuencia emitida por rayo de luz
+Calcular el efecto de aberracion de la luz.
+Nuevo punto de vista del observador
+Calculo del efecto Doppler relativista
+Valor de frecuencia recibido
+Angulo real de los rayos de luz:
+Angulo percibido por el observador:
+trayectoria del observador
+Efecto de aberracion de luz
+Calculo del cambio en el angulo de vision de un rayo.
+Medir la contraccion de la longitud
+Longitud real del objeto de prueba
+Nueva longitud despues de la contraccion (m):
+factor de lorentz
+Es un agujero negro extremo de Kerr.
+Energia por unidad de masa en Isco
+Diferentes limites de estacionariedad:
+Es un agujero negro de Kerr rapido.
+Es un agujero negro de Kerr lento.
+Tu archivo es de una version antigua
+Considere actualizarlo.
+Coordenadas radiales
+Coordenada de colatitud
+Coordenada de longitud
+excentricidad orbital
+Longitud del semieje mayor (m)
+Precesion del periastro
+Avance del perihelio (rad/revolucion)
+Calcule tambien el efecto Lense-Thirring
+Calculo del efecto Lense-Thirring
+Cálculo del efecto De Sitter
+Velocidad angular del objeto que atrae
+Angulo de precesion relativista total despues de una orbita
+Calcular una onda gravitatoria
+Masa del primer objeto (kg)
+Masa del segundo objeto (kg)
+Angulo de vision del observador (rad)
+Distancia entre los dos objetos (m)
+Distancia del observador a los objetos
+Potencia radiada por unidad de angulo solido (W/str)
+Frecuencia de rotacion de los 2 cuerpos (Hz)
+Amplitud de onda H+
+Amplitud de onda Hx
+Potencia total radiada (W)
+Calculo de una onda gravitatoria
+de un sistema binario
+Elige tu objetivo
+Relatividad especial o general?
+Velocidad de paso del tiempo para una obs. distante
+en comparacion con lo medido
+Distancia desde el centro del objeto (m)
+Devolver un poder
+En (m/s) Velocidad imposible si > a 3x10**8
+En (m), horizonte de un agujero negro
+Efecto debido a la distorsion del espacio-tiempo
+La distancia mas pequena entre el foton y el objeto (m)
+Angulo incorrecto si es mayor que 6,28
+Radio de la lente, en (m)
+Radio de la ergosfera, en (m)
+Radio del horizonte del agujero negro, en (m)
+Visualizacion del problema
+Datos proporcionados por el usuario
+Calculo de energia de las olas
+Calcular el retraso gravitacional
+Calcular una velocidad durante una caida libre
+Metrica de Minkowski
+Metrica personal
+Exportar a pdf
+Calcular una velocidad
+Distancia del observador
+¿Quieres guardar tus datos?

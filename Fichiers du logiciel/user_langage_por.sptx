@@ -1,0 +1,193 @@
+Bem-vindo ao SpoutnX
+Qual e o seu objetivo?
+Arquivo
+Em relacao a
+Configuracoes
+Calcular a dilatacao do tempo
+Calcular uma aceleracao
+Calcular um deslocamento espectral
+Calcular uma velocidade
+Calcular os efeitos da gravidade na luz
+Procure caracteristicas de um buraco negro
+Validar
+Escolha da metrica
+Outro
+Veja na Wikipedia
+Velocidade angular do objeto (rad/s)
+Altitude r (m)
+Massa do objeto atrativo (kg)
+Calcular
+Velocidade espacial do objeto (m/s)
+Dilatacao do tempo
+(em comparacao com um observador distante)
+Formula usada:
+Aceleracao de uma queda vertical
+Esta metrica descreve um universo vazio e plano
+portanto, nao ha aceleracao possivel
+Nao ha efeito Einstein
+Distancia M do transmissor (m)
+Caracteristicas do problema
+Resultados
+Para uma queda vertical
+Nao podemos, portanto, calcular uma velocidade a partir desta metrica
+Velocidade de um objeto durante uma queda vertical:
+raio de Schwarzschild:
+(para o qual v=0):
+Calculo do desvio de um foton
+por um objeto Schwarzschild
+Parametro de impacto da trajetoria do foton(b)
+e a distancia entre o foton e a linha perpendicular
+tem sua trajetoria passando pelo centro do objeto de massa M
+angulo de desvio (rad)
+Visualizar
+Escolha da descricao do buraco negro
+Objeto esferico e estatico
+Rotacao do buraco negro
+Metrica de Schwarzschild
+Massa do buraco negro (kg)
+Altitude
+Calcular a massa de um buraco negro
+com um deslocamento espectral
+Valor de deslocamento espectral
+Distancia do transmissor
+escalar de Kretschmann
+Calcular Radiacao Hawking
+temperatura do buraco negro
+tempo de evaporacao do buraco negro
+Esta radiacao permanece hoje no estado de suposicao
+Ninguem foi capaz de provar isso ainda
+Esses calculos devem, portanto, ser tomados com cautela.
+Kerr Metrica
+Momento cinetico (angular) do buraco negro
+Colatitude (rad)
+Caracteristicas de um buraco negro de Kerr
+Taxa de rotatividade (a)
+Parametro de rotacao (a*)
+Horizonte de eventos externo: r+
+Horizonte de eventos interno: r-
+Abrir
+Salvar como
+Preferencias/configuracoes
+Adicionar uma metrica
+Insira apenas numeros
+sem variaveis ​​ou operacoes
+Nome da sua metrica
+Descricao
+Mudar idioma
+Caracteristicas de um objeto Schwarzschild
+Massa de um objeto de Schwarzschild:
+Massa
+Mudanca espectral
+Reinicie o software para que
+As alteracoes entram em vigor
+desvio de um foton
+Efeito Shapiro
+Escolha do calculo
+Coordenada radial para a qual a trajetoria
+fotons esta mais proximo do objeto de atracao:
+Coordenada radial do objeto A:
+em relacao ao objeto atrativo
+Coordenada radial do objeto B:
+Demora (s) para ir do objeto A para B
+Limite externo de estacionariedade: rS+
+Limite interno de estacionariedade: rS-
+Estrutura de um buraco negro de Kerr:
+trajetoria do foton
+Desvio de um foton por um objeto de Schwarzschild
+Com os resultados reais previamente calculados
+devido a uma velocidade
+Devido a um objeto macico
+Calcular uma lente gravitacional (opcional)
+Raio de Einstein:
+Distancia do obs. em relacao ao objeto macico
+Calcular uma precessao geodesica
+Calcule o efeito De Sitter ou
+precessao geodesica
+Velocidade angular de precessao
+angulo de precessao apos uma orbita do objeto (rad)
+Ajuda
+Voltar aos dados
+Opcao: Calcular a massa de um buraco negro
+com um deslocamento espectral
+Inserir dados
+Caracteristicas de um buraco negro
+coordenadas de tempo e longitude
+Ultimo raio de orbita estavel (Isco)
+Velocidade angular orbital (rad/s)
+velocidade orbital
+Calcular o efeito da velocidade na luz
+na relatividade especial
+Angulo formado pelo raio de luz incidente,
+e a trajetoria do observador:
+Bem como o efeito Doppler-Fizeau
+Frequencia emitida por raio de luz
+Calcular o efeito de aberracao da luz
+Novo ponto de vista do observador
+Calculo do efeito Doppler relativistico
+Valor de frequencia recebido
+Angulo real dos raios de luz:
+Angulo percebido pelo observador:
+trajetoria do observador
+Efeito de aberracao de luz
+Calculo da mudanca no angulo de visao de um raio
+Medir a contracao do comprimento
+Comprimento real do objeto de teste
+Novo comprimento apos a contracao (m):
+fator de Lorentz
+E um buraco negro extremo de Kerr.
+Energia por unidade de massa em Isco
+Diferentes limites de estacionariedade:
+E um buraco negro Kerr rapido.
+E um lento buraco negro de Kerr.
+Seu arquivo e de uma versao antiga
+Considere atualiza-lo.
+coordenada radial
+Coordenada de colatitude
+coordenada de longitude
+Excentricidade da orbita
+Comprimento do semi-eixo maior (m)
+Precessao do periastro
+Avanco do perielio (rad/revolucao)
+Calcule tambem o efeito Lense-Thirring
+Calculo do efeito Lense-Thirring
+Cálculo do efeito De Sitter
+Velocidade angular do objeto de atracao
+Angulo de precessao relativistica total apos uma orbita
+Calcular uma onda gravitacional
+Massa do 1er objeto (kg)
+Massa do 2nd objeto (kg)
+Angulo de visao do observador (rad)
+Distancia entre os dois objetos (m)
+Distancia do observador dos objetos
+Potencia irradiada por unidade de angulo solido (W/str)
+Frequencia de rotacao dos 2 corpos (Hz)
+Amplitude da onda H+
+Amplitude da onda Hx
+Potencia irradiada total (W)
+Calculo de uma onda gravitacional
+de um sistema binario
+Escolha seu objetivo
+Relatividade especial ou geral?
+Velocidade de passagem do tempo para um obs. distante
+em comparacao com o medido
+Distancia do centro do objeto (m)
+Devolva um poder
+Em (m/s) Velocidade impossivel se > a 3x10**8
+Em (m), horizonte de um buraco negro
+Efeito devido a distorcao do espaco-tempo
+A menor distancia entre o foton e o objeto (m)
+Angulo errado se for maior que 6,28
+Raio da lente, em (m)
+Raio da ergosfera, em (m)
+Raio do horizonte do buraco negro, em (m)
+Visualizacao do problema
+Dados fornecidos pelo usuario
+Calculo da Potencia das Ondas
+Calcular o atraso gravitacional
+Calcular uma velocidade durante uma queda livre
+Metrica de Minkowski
+Metrica pessoal
+Exportar para pdf
+Calcular uma velocidade
+distancia do observador
+Quer salvar seus dados?

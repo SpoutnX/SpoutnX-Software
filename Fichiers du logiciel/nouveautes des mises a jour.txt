@@ -1,0 +1,122 @@
+Nouveautes des mises a jour:
+
+31/10/23 v6.2	CORRECTION D'UN BUG
+- Dans le module Ondes gravitationnelles, dans la fenêtre Caractéristiques, la puissance de 10 tapée pour la masse de l'objet n°2 du système binaire n'était pas prise en compte
+C'est désormais corrigé
+
+
+
+25/10/23 v6.1	PAS D'AJOUT MAJEUR, AMELIORATIONS ET CORRECTION DE BUGS
+- Création d'une zone pour taper une puissance de 10 pour rentrer un moment cinétique dans les modules concernés
+- Relecture complète de tout le code source, pour le simplifier, l'optimiser...
+- Suppression de l'écran de démarrage ajouté à SpoutnX pour la version 6.0: empêchait le logiciel de se lancer sur Windows 10.
+- Changement de licence de SpoutnX: désormais SpoutnX devient un logiciel libre, et passe sous licence GPLv3
+	> Création d'un dépot Github pour télécharger le code source
+- Correction de petits bugs en tout genre
+
+
+
+24/08/23 v6.0	AJOUT D'UN NOUVEAU MODULE, AMELIORATION MAJEURE DES FONCTONNALITES
+- ajout du module Ondes gravitationnelles, qui permet de calculer les effets d'une onde gravitationnelle provennant d'un système binaire
+- ajout de la fonction permettant de calculer la precession du periastre en relativite, dans le module Precession
+- ajout de la fonction permettant de calculer l'effet Lense-Thirring, dans le module Precession
+- ajout d'info-bulles pour apport de précisions dans le logiciel
+- correction de la formule du calcul de l'effet de De Sitter
+- Ajout de la fonction permettant d'imprimer tous les resultats et les données dans un document pdf
+	-> Cela entraîne une profonde modification du système de fichier et de l'extension .sptx
+	-> Les fichiers issus d'une ancienne version de SpoutnX marcheront toujours, mais la fonctionnalité ci-dessus ne sera pas disponible
+- Correction bug d'affichage: la valeur de la masse dans la fenêtre des résultats était trop grande
+- ajout de la fonction permettant l'ouverture d'un fichier .sptx par double-clic depuis le bureau par exemple
+- ajout d'un écran de démarrage pour meubler le temps de démarrage
+- Correction de bugs dans le module Contraction des longueurs:
+	-> Bug d'affichage à la fermeture de la fenêtre des résultats
+	-> Erreur dans l'équation affichée
+- Correction bug d'affichage dans la fenêtre Réglages
+- Correction d'erreurs dans l'affichage des équations du module Dilatation temporelle
+- Simplification du code et suppression de parties inutiles
+- Mise à jour du module d'aide
+- Autres corrections de bugs et d'erreurs
+
+
+
+22/07/23: v5.2 CORRECTIONS D'ERREURS IMPORTANTES
+- Correction d'erreurs de formules dans le module Dilatation temporelle, pour la metrique de Schwarszchild principalement
+
+
+
+10/06/23: v5.0	  AMELIORATIONS MAJEURES DES FONCTIONNALITES
+- ajout de la possibilite de calculer l'effet de contraction des longueurs avec le module Dilatation temporelle
+- ajout de la possibilite de calculer l'effet d'abberation de la lumiere dans le module Effets de la gravitation sur la lumiere
+- 	-> ajout d'une visualisation interactive pour cette fonctionnalite
+- ajout de la possibilite de calculer l'effet Doppler relativiste dans le module Effet de la gravitation sur la lumiere
+- module Effets de la gravitation sur la lumiere renomme en Effets de la relativite sur la lumiere
+- Nouvelles zones de texte dans les fenêtres Caracteristiques, pour rentrer des puissances, afin d'optimiser l'utilisation
+- Amelioration de la fonctionnalite pour rentrer une metrique personnelle: metrique desormais a 4 dimensions, calculs plus rigoureux
+	-> amelioration aussi de la fenêtre Caracteristiques dans Dilatation temporelle
+- Amelioration du sous module Trou noir en rotation: il affiche desormais le type de trou noir de Kerr
+	-> en cas de trou noir de Kerr extrême: affiche le rayon de la dernière orbite stable (ISCO) et l'energie par unite de masse d'une particule a l'ISCO
+	-> organisation de la fenêtre des resultats amelioree
+- Amelioration du sous module Trou noir spherique et statique: affiche le rayon de la derniere orbite stable (ISCO)
+- creation d'une distribution du logiciel pour MacOS: premiere version test
+- correction de plusieurs bugs d'affichage 
+- Amelioration de la methode de compilation pour une legere augmentation de la rapidite du logiciel
+
+
+
+14/05/23: v4.0    REFONTE GRAPHIQUE MAJEURE, AJOUT D'UN MODULE
+- refonte graphique majeure avec: 
+	> passage a un module d'interface graphique plus performant
+	> modification du logo du logiciel
+	> nouveau jeu d'icônes
+	> amelioration de l'interface, de sa beaute et de son ergonomie
+	> ajout d'une fonctionnalite permettant de revenir aux donnees lors des resultats, ainsi que de voir les donnes precedemment tapees
+- amelioration des performances: logiciel desormais plus rapide
+- ajout du module precession geodetique, qui permet de calculer une precession due a la courbure de l'espace-temps
+- ajout de la possibilite de calculer une lentille gravitationnelle dans le module deviation d'un photon
+- ajout du calcul de la dilatation temporelle par un objet massif dans le module Dilatation
+- Correction d'un bug dans la visualisation de la deviation d'un photon
+- Correction de divers bug mineurs
+
+
+
+02/04/23: v3.5	PAS D'AJOUT MAJEUR, AMELIORATION DES FONCTIONNALITES
+- amelioration du systeme qui gere les langues du logiciel, pour une meilleure stabilite
+- correction de fautes dans les traductions
+- amelioration du module "caracteristiques d'un trou noir", et particulierement pour les trous noirs en rotation:
+	>- Il est possible desormais de calculer la limite exterieure de stationnarite, limite interieure de stationnarite, l'horizon interieur des evenements, et l'horizons exterieur des evenements, ainsi que le rayon de Schwarzschild, et le taux de rotation et le parametre de spin, qui etait deja disponibles.
+- grosse amelioration des visualisations: elles sont desormais interactives et s'affichent en fonction des resultats calcules par l'utilisateur
+	-> visualisation du trou noir de Kerr amelioree, elle affiche toutes les phases de stationarite
+	-> visualisation de la deviation de la lumiere amelioree, elle affiche l'angle exact calcule par l'utilisateur
+
+
+
+31/03/23: v3.0   AJOUT D'UN NOUVEAU MODULE ET DE NOUVELLES LANGUES
+- ajout d'un nouveau module: les effets de la gravitation sur la lumiere
+	-> permet le calcul de la deviation d'un photon par un objet de Schwarzschild, ainsi que la visualisation du phenomene
+	-> permet de calculer l'effet Shapiro, (ou retard Shapiro), et de visualiser egalement le phenomene
+- Ajout de nouvelles langues dans le logiciel, dans la fenetre reglages: anglais et espagnol
+- amelioration du module caracteristiques d'un trou noir:
+	-> ajout d'une fonctionnalite pour calculer le rayonnement de Hawking pour un trou noir de Schwarzschild
+	-> ajout d'une fonctionnalite pour trouver la masse d'un trou noir avec un decalage spectral
+- Amelioration du systeme de fichier
+- correction de divers bugs d'affichage et de calcul
+
+
+
+21/03/23: v2.1	CORRECTION DE BUGS IMPORTANT
+- correction d'un bug lors du choix de dossier d'installation: il etait impossible d'installer le logiciel avec le choix d'emplacement par defaut
+- ajout d'une fonction permettant d'ajouter sa propre metrique: experimentale
+- modification du systeme de fichier pour une meilleure fiabilite
+- optimisation de l'interface utilisateur, plus agreable: unification des polices d'ecriture, resolution de bugs dans la taille d'affichage
+
+
+
+15/03/23: v2.0	AJOUT D'UN NOUVEAU MODULE SUR LES TROUS NOIRS
+- ajout d'un module permettant de calculer les caracteristiques d'un trou noir de Kerr, et d'un trou noir de Schwarzschild
+- ajout de liens wikipedia sur certains modules pour permettre de comprendre les differentes fonctionnalites
+- optimisation de l'interface: ajout de l'icone de SpoutnX sur toutes les fenetres, affichage des resultats plus gros
+
+
+
+10/03/23: v1.0
+- version de base

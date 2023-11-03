@@ -1,0 +1,193 @@
+Welcome to SpoutnX
+What is your objective?
+File
+About
+Settings
+Calculate time dilation
+Calculate an acceleration
+Calculate a spectral shift
+Calculate a speed
+Calculate the effects of gravity on light
+Look for characteristics of a black hole
+Validate
+Choice of metric
+Other
+See on wikipedia
+Angular velocity of object (rad/s)
+Altitude r (m)
+Mass of attracting object (kg)
+Calculate
+Space velocity of object (m/s)
+Time dilation
+(compared to a distant observer)
+Formula used:
+Acceleration of a vertical fall
+This metric describes an empty and flat universe
+there is therefore no possible acceleration
+There is no Einstein effect
+Distance M from transmitter (m)
+Characteristics of the problem
+Results
+For a vertical fall
+We cannot therefore calculate a speed from this metric
+Speed of an object during a vertical fall:
+Schwarzschild radius
+(for which v=0):
+Calculation of the deviation of a photon
+by a Schwarzschild object
+Impact parameter of photon trajectory (b)
+It is the distance between the photon and the perpendicular line
+has its trajectory passing through the center of the object of mass M
+Deviation angle (rad)
+View
+Choice of black hole description
+Spherical and static object
+Rotating black hole
+Schwarzschild Metric
+Black hole mass (kg)
+Altitude
+Calculate the mass of a black hole
+with a spectral shift
+Spectral shift value
+Transmitter distance
+Kretschmann's scalar
+Calculate Hawking Radiation
+black hole temperature
+black hole evaporation time
+This radiation remains today in the state of supposition
+No one has been able to prove it yet
+These calculations should therefore be taken with a grain of salt.
+Kerr Metric
+Kinetic (angular) momentum of the black hole
+Colatitude (rad)
+Characteristics of a Kerr black hole
+Turnover rate (a)
+Spin parameter (a*)
+Outer event horizon: r+
+Inner Event Horizon: r-
+Open
+Save as
+Preferences/settings
+Add a metric
+Enter numbers only
+no variables or operations
+Name of your metric
+Description
+Change language
+Characteristics of a Schwarzschild object
+Mass of a Schwarzschild object:
+Mass
+Spectral shift
+Restart the software so that
+Changes take effect
+deviation of a photon
+Shapiro Effect
+Choice of calculation
+Radial coordinate for which the trajectory
+photons is closest to the attracting object:
+Radial coordinate of object A:
+in relation to the attracting object
+Radial coordinate of object B:
+Delay (s) to go from object A to B
+Outer limit of stationarity: rS+
+Inner limit of stationarity: rS-
+Structure of a Kerr black hole:
+Photon trajectory
+Deviation of a photon by a Schwarzschild object
+With the real results previously calculated
+Due to a speed
+Due to a massive object
+Calculate a gravitational lens (optional)
+Einstein radius:
+Distance from obs. relative to the massive object
+Calculate a geodetic precession
+Calculate the De Sitter effect or
+geodetic precession
+Angular velocity of precession
+Angle of precession after one orbit of the object (rad)
+Aid
+Back to data
+Option: Calculate the mass of a black hole
+with a spectral shift
+Enter data
+Characteristics of a black hole
+time and longitude coordinates
+Last stable orbit radius (Isco)
+Orbital angular velocity (rad/s)
+Orbital speed
+Calculate the effect of speed on light
+in special relativity
+Angle formed by the incoming light ray,
+and the trajectory of the observer:
+As well as the Doppler-Fizeau effect
+Frequency emitted per light ray
+Calculate the aberration effect of light
+New viewpoint of the observer
+Calculation of the relativistic Doppler effect
+Received frequency value
+Actual angle of light rays:
+Angle perceived by the observer:
+Observer trajectory
+Light aberration effect
+Calculation of the change in the angle of view of a ray
+Measure length contraction
+Actual length of the test object
+New length after contraction (m):
+Lorentz factor
+It's an extreme Kerr black hole.
+Energy per unit mass at Isco
+Different stationarity limits:
+It's a fast Kerr black hole.
+It's a slow Kerr black hole.
+Your file is from an old version
+Consider updating it.
+Radial coordinate
+Coordinate of colatitude
+Longitude coordinate
+Orbit eccentricity
+Length of the semi-major axis (m)
+Precession of the periastre
+Advance of the perihelion (rad/revolution)
+Also calculate the Lense-Thirring effect
+Calculation of the Lense-Thirring effect
+Calculation of the De Sitter effect
+Angular velocity of the attracting object
+Angle of total relativistic precession after an orbit
+Calculate a gravitational wave
+Mass of the 1st object (kg)
+Mass of 2nd object (kg)
+Viewing angle of the observer (rad)
+Distance between the two objects (m)
+Observer distance from objects
+Power radiated per unit solid angle (W/str)
+Rotation frequency of the 2 bodies (Hz)
+H+ wave amplitude
+Hx wave amplitude
+Total radiated power (W)
+Calculation of a gravitational wave
+from a binary system
+Choose your goal
+Special or general relativity?
+Speed of passage of time for an obs. distant
+compared to that measured
+Distance from center of object (m)
+Return a power
+In (m/s) Impossible speed if > a 3x10**8
+In (m), horizon of a black hole
+Effect due to the distortion of space-time
+The smallest distance between the photon and the object (m)
+Wrong angle if greater than 6.28
+Lens radius, in (m)
+Radius of the ergosphere, in (m)
+Radius of the black hole horizon, in (m)
+Visualization of the problem
+Data provided by the user
+Wave Power Calculation
+Calculate the gravitational lag
+Calculate a speed during a free fall
+Minkowski metric
+Personal metric
+Export to pdf
+Calculate a speed
+Observer distance
+Do you want to save your data?

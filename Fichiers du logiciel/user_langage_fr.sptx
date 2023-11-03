@@ -1,0 +1,193 @@
+Bienvenue dans SpoutnX
+Quel est votre objectif?
+Fichier
+A propos
+Reglages
+Calculer une dilatation temporelle
+Calculer acceleration et vitesse
+Calculer un decalage spectral
+Calculer une vitesse
+Calculer les effets de la relativite sur la lumiere
+Chercher les caracteristiques d'un trou noir
+Valider
+Choix de la metrique
+Autre
+Voir sur wikipedia
+Vitesse angulaire de l'objet (rad/s)
+Altitude r (m)
+Masse de l'objet attirant (kg)
+Calculer
+Vitesse spatiale de l'objet (m/s)
+Dilatation temporelle
+(par rapport a un observateur eloigne)
+Formule utilisee:
+Acceleration d'une chute verticale
+Cette metrique decrit un univers vide et plat
+il n'y a donc aucune acceleration envisageable
+Il n'y a pas d'effet Einstein
+Distance r de l'emetteur (m)
+Caracteristiques du probleme
+Resultats
+Pour une chute verticale
+On ne peut donc pas calculer une vitesse a partir de cette métrique
+Vitesse d'un objet lors d'une chute verticale:
+Rayon de Schwarzschild:
+(pour lequel v=0):
+Calcul de la deviation d'un photon
+par un objet de Schwarzschild
+Parametre d'impact de la trajectoire du photon(b)
+C'est la distance entre le photon et la droite perpendiculaire
+a sa trajectoire passant par le centre de l'objet de masse M
+Angle de deviation (rad)
+Visualiser
+Choix de la description du trou noir
+Objet spherique et statique
+Trou noir en rotation
+Metrique de Schwarzschild
+Masse du trou noir (kg)
+Altitude
+Calculer la masse d'un trou noir
+avec un decalage spectral
+Valeur du decalage spectral
+Distance de l'emetteur
+Scalaire de Kretschmann
+Calculer le rayonnement de Hawking
+Temperature du trou noir
+Temps d'evaporation du trou noir
+Ce rayonnement reste aujourd'hui a l'etat de supposition
+Personne n'a encore pu le prouver.
+Ces calculs sont donc à prendre avec recul.
+Metrique de Kerr
+Moment cinetique (angulaire) de l'objet
+Colatitude (rad)
+Caracteristiques d'un trou noir de Kerr
+Taux de rotation (a)
+Parametre de spin (a*)
+Horizon exterieur des evenements: r+
+Horizon interieur des evenements: r-
+Ouvrir
+Enregistrer sous
+Preferences/reglages
+Ajouter une metrique
+Entrer seulement des chiffres
+pas de variables ni d'opperations
+Nom de votre metrique
+Description
+Changer de langue
+Caracteristiques d'un objet de Schwarzschild
+Masse d'un objet de Schwarzschild:
+Masse
+Decalage spectral (m)
+Redemarrer le logiciel pour que
+Les changements prennent effet
+Deviation d'un photon
+Effet Shapiro
+Choix du calcul
+Coordonnee radiale pour laquelle la trajectoire
+des photons est la plus proche de l'objet attirant:
+Coordonnee radiale de l'objet A:
+par rapport a l'objet attirant
+Coordonnee radiale de l'objet B:
+Retard (s) pour aller de l'objet A au B
+Limite exterieure de stationnarite: rS+
+Limite interieure de stationnarite: rS-
+Structure d'un trou noir de Kerr:
+Trajectoire du photon
+Deviation d'un photon par un objet de Schwarzschild
+Avec les vrais resultats precedemment calcules
+A cause d'une vitesse
+A cause d'un objet massif
+Calculer une lentille gravitationnelle (facultatif)
+Rayon d'Einstein:
+Distance de l'obs. par rapport a l'objet massif
+Calculer une precession
+Calculer l'effet de De Sitter
+ou Precession geodetique
+Vitesse angulaire de precession (rad/s)
+Angle de precession apres une orbite de l'objet(rad)
+Aide
+Revenir aux donnees
+Option: Calculer la masse d'un trou noir 
+avec un decalage spectral
+Rentrer les donnees
+Caracteristiques d'un trou noir
+coordonnees de temps et de longitude
+Rayon derniere orbite stable (Isco)
+Vitesse angulaire orbitale (rad/s)
+Vitesse orbitale
+Calculer l'effet de la vitesse sur la lumiere
+en relativite restreinte
+Angle forme par le rayon lumineux arrivant,
+et la trajectoire de l'observateur:
+Ainsi que l'effet Doppler-Fizeau
+Frequence emise par rayon lumineux
+Calculer l'effet d'aberration de la lumiere
+Nouvel angle de vue de l'observateur
+Calcul de l'effet Doppler relativiste
+Valeur de la frequence recue
+Angle reel des rayons lumineux: 
+Angle percu par l'observateur:
+Trajectoire de l'observateur
+Effet d'aberration de la lumiere
+Calcul de la modification de l'angle de vue d'un rayon
+Mesurer la contraction des longueurs
+Longueur reelle de l'objet test (m)
+Nouvelle longueur apres contraction (m):
+Facteur de Lorentz
+C'est un trou noir de Kerr extreme
+Energie par unite de masse a l'Isco
+Differentes limites de stationnarite:
+C'est un trou noir de Kerr rapide
+C'est un trou noir de Kerr lent
+Votre fichier provient d'une ancienne version
+Pensez a le mettre a jour
+Coordonnee radiale
+Coordonnee de colatitude
+Coordonnee de longitude
+Excentricite de l'orbite
+Longueur du demi grand axe (m)
+Precession du periastre
+Avance du perihelie (rad/revolution)
+Calculer aussi l'effet Lense-Thirring
+Calcul de l'effet Lense-Thirring
+Calcul de l'effet de De Sitter
+Vitesse angulaire de l'objet attirant
+Angle de precession relativiste totale apres une orbite
+Calculer une onde gravitationnelle
+Masse du 1er objet (kg)
+Masse du 2nd objet (kg)
+Angle de vue de l'observateur (rad)
+Distance entre les deux objets (m)
+Distance de l'observateur par rapport aux objets
+Puissance rayonnee par unite d'angle solide (W/str)
+Frequence de rotation des 2 corps (Hz)
+Amplitude de l'onde H+
+Amplitude de l'onde Hx
+Puissance totale rayonnee (W)
+Calcul d'une onde gravitationnelle
+issue d'un systeme binaire
+Choisissez votre objectif
+Relativite restreinte ou generale?
+Vitesse d'ecoulement du temps pour un obs. lointain
+par rapport a celui mesure
+Distance depuis le centre de l'objet (m)
+Rentrer une puissance
+En (m/s) Vitesse impossible si > a 3x10**8
+En (m), horizon d'un trou noir
+Effet du a la deformation de l'espace-temps
+La plus petite distance entre le photon et l'objet (m)
+Angle faux si supérieur à 6.28
+Rayon de la lentille, en (m)
+Rayon de l'ergosphere, en (m)
+Rayon de l'horizon du trou noir, en (m)
+Visualisation du probleme
+Donnees fournies par l'utilisateur
+Calcul de la puissance de l'onde
+Calculer le retard gravitationnel
+Calculer une vitesse lors d'une chute libre
+Metrique de Minkowski
+Metrique personnelle
+Exporter en pdf
+Calculer une vitesse
+Distance de l'observateur
+Voulez-vous enregistrer vos donnees?
