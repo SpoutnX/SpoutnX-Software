@@ -1,8 +1,32 @@
 Nouveautes des mises a jour:
 
-31/10/23 v6.2	CORRECTION D'UN BUG
-- Dans le module Ondes gravitationnelles, dans la fenêtre Caractéristiques, la puissance de 10 tapée pour la masse de l'objet n°2 du système binaire n'était pas prise en compte
-C'est désormais corrigé
+
+03/01/24 v7.0	NOUVELLES FONCTIONNALITES MAJEURES
+- Nouveau script introduisant une nouvelle simulation dans le module Ondes Gravitationnelles:
+	-> Permet de modéliser précisément les ondes gravitationnelles produites par un système binaire:
+		- Puissance des ondes gravitationnelles en fct du temps
+		- Distance entre les corps en fct du temps
+		- Vitesse des corps en fct du temps
+		- Temps nécessaire pour que les corps coalescent + période d'orbite en fct du temps
+	-> Prends un charge un nouveau type de fichier: les tableurs excel pour enregistrer les données
+	-> Introduit 3 nouvelles visualisations dans le logiciel
+- Création d'un outil permettant de calculer le moment cinétique d'un corps en rotation et notamment d'un
+trou noir: utilisable dans les modules Trous noirs et Précession
+- Regroupement du module Décalage Spectral dans le module Effets de la Relativité sur la lumière:
+	-> Suppression d'un objectif sur la fenetre principale et ajout d'une entrée dans le choix du calcul dans la fenêtre Caractéristiques du module Effets de la Relativité
+	-> légère modification du système de fichier pour ce module: les fichiers provenant de l'ancienne
+	versions fonctionnent toujours parfaitement.
+	-> Suppression d'un script dans le fonctionnement de SpoutnX
+- Création de zones pour taper une puissance de 10 pour rentrer une distance dans les modules concernés
+- Correction d'une erreur qui empêchait d'ouvrir un document enregistré provenant du module Ondes Gravitationnelles, à partir de l'explorateur de fichier
+- Correction de pluseurs petits bugs d'affichage graphique, et autres erreurs diverses
+- Mise à jour du module d'aide
+
+
+
+16/11/23 v6.2	PAS D'AJOUT MAJEUR, CORRECTION D'UN BUG
+- Dans le module Ondes gravitationnelles, l'une des cases dans laquelle on tape une puissance de 10 n'était pas prise en compte: C'est désormaiscorrigé
+- Correction d'une erreur qui empêchait de rouvrir un document enregistré provenant du module Ondes Gravitationnelles
 
 
 
@@ -11,13 +35,12 @@ C'est désormais corrigé
 - Relecture complète de tout le code source, pour le simplifier, l'optimiser...
 - Suppression de l'écran de démarrage ajouté à SpoutnX pour la version 6.0: empêchait le logiciel de se lancer sur Windows 10.
 - Changement de licence de SpoutnX: désormais SpoutnX devient un logiciel libre, et passe sous licence GPLv3
-	> Création d'un dépot Github pour télécharger le code source
 - Correction de petits bugs en tout genre
 
 
 
 24/08/23 v6.0	AJOUT D'UN NOUVEAU MODULE, AMELIORATION MAJEURE DES FONCTONNALITES
-- ajout du module Ondes gravitationnelles, qui permet de calculer les effets d'une onde gravitationnelle provennant d'un système binaire
+- ajout du module Ondes gravitationnelles, qui permet de calculer les caracteristiques d'une onde gravitationnelle provennant d'un système binaire
 - ajout de la fonction permettant de calculer la precession du periastre en relativite, dans le module Precession
 - ajout de la fonction permettant de calculer l'effet Lense-Thirring, dans le module Precession
 - ajout d'info-bulles pour apport de précisions dans le logiciel
@@ -103,7 +126,7 @@ C'est désormais corrigé
 
 
 
-21/03/23: v2.1	CORRECTION DE BUGS IMPORTANT
+21/03/23: v2.1	CORRECTION DE BUGS IMPORTANTS
 - correction d'un bug lors du choix de dossier d'installation: il etait impossible d'installer le logiciel avec le choix d'emplacement par defaut
 - ajout d'une fonction permettant d'ajouter sa propre metrique: experimentale
 - modification du systeme de fichier pour une meilleure fiabilite

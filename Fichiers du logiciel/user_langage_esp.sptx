@@ -150,7 +150,7 @@ Precesion del periastro
 Avance del perihelio (rad/revolucion)
 Calcule tambien el efecto Lense-Thirring
 Calculo del efecto Lense-Thirring
-Cálculo del efecto De Sitter
+Calculo del efecto De Sitter
 Velocidad angular del objeto que atrae
 Angulo de precesion relativista total despues de una orbita
 Calcular una onda gravitatoria
@@ -190,4 +190,35 @@ Metrica personal
 Exportar a pdf
 Calcular una velocidad
 Distancia del observador
-¿Quieres guardar tus datos?
+Quieres guardar tus datos?
+Modelado de ondas gravitacionales
+de un sistema binario
+Si las orbitas de los cuerpos son elipticas (ver foto)
+Por favor escriba la distancia entre cuerpos en el periapsis.
+Periodo del sistema
+Numero de periodos entre
+cada calculo por defecto:
+Se recomienda no modificarlo.
+Variables a mostrar en los resultados:
+Los calculos pueden tardar varios minutos.
+No toques tu computadora mientras esperas
+Progreso del calculo
+Guardar datos
+Distancia entre cuerpos
+Poder de las ondas gravitacionales.
+Velocidad del objeto 1
+Velocidad del objeto 2
+Evolucion de la distancia entre objetos.
+Velocidad en (m/s)
+Tiempo en (s)
+Distancia en (m)
+Potencia en (W)
+Evolucion del poder de OG
+Evolucion de la velocidad de los objetos.
+Modelizacion
+Cerca
+Radio
+estrella madre
+Calculo del momento cinetico.
+Velocidad angular
+cambio espectral

@@ -1,8 +1,6 @@
 SpoutnX is a free software that allows to do calculations with general relativity.
 Its scripts are disponible on  a repository Github
 
-Copyright (C) 2023 Tom Lafond
-
 Contact: spoutnx23@gmail.com
 www.spoutnx.wixsite.com/spoutnx
 
@@ -210,3 +208,5 @@ END OF TERMS AND CONDITIONS
 
 For any questions about the terms of this licence, please contact us:
 spoutnx23@gmail.com
+
+Copyright (C) 2024 Tom Lafond
