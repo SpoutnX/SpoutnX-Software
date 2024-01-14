@@ -1,4 +1,11 @@
 
+SpoutnX est un petit logiciel gratuit permettant de réaliser des calculs d'astrophysique grâce aux équations et métriques de la relativité générale et restreinte. Il permet de calculer une accélération, une dilatation temporelle en fonction d'une vitesse, une caractéristique d'un trou noir, ou encore un décalage spectral dû à la gravité (effet Einstein), et bien plus encore!
+
+​
+
+Développé bénévolement par un passionné d'astronomie et d'informatique, SpoutnX est constamment amélioré et corrigé. Vous pouvez aujourd'hui télécharger sa septième version. Il est développé en langage python, et est téléchargeable pour Windows, Linux et MacOS.
+
+
 
  
 ##################################################################################################################
@@ -24,11 +31,13 @@ Le code source que vous pouvez télécharger sur Github est la version Linux du 
 
 L'interface graphique est basée sur la bibliothèque PySide6 (Qt). Le code est divisé en plusieurs scripts: 
 - Le script "maître": qui gère la QMainWindow, les fonctions telles que Enregistrer sous, A propos, Aide, etc
-- Les scripts correspondants à chacun des 7 objectifs (suivant les versions) qui se lancent lorsque l'utilisateur choisi son objectif dans la MainWindow. Ce sont eux qui gèrent les fenêtres Caractéristiques et Résultats.
+- Les scripts correspondants à chacun des 6 objectifs (suivant les versions) qui se lancent lorsque l'utilisateur choisi son objectif dans la MainWindow. Ce sont eux qui gèrent les fenêtres Caractéristiques et Résultats.
 - Le script printpdf, qui s'occupe de la fonction d'exportation au format pdf
-- Le script visualisation, qui gère les différentes visualisation des modules
+- Le script printplot, qui gère les différentes visualisation des modules
+- Le script PlotGravwaveCbA qui permet de modéliser les systèmes binaires
 
-Les visualisations sont réalisées avec la bibliothèque Matplotlib, et les pdfs sont générés avec la bibliothèque FPDF
+Les visualisations sont réalisées avec la bibliothèque Matplotlib, et les pdfs sont générés avec la bibliothèque FPDF. Les fichiers excels dans la modélisation des
+ondes gravitationnelles sont gérés avec la bibliothèque Pandas
 
 
 
@@ -37,11 +46,17 @@ Les visualisations sont réalisées avec la bibliothèque Matplotlib, et les pdf
 
 Le logiciel enregistre les résultats sous la forme d'un fichier texte auquel on a changé l'extension en .sptx (extension créée exprès)
 
-Quelque soit le système d'exploitation sauf MacOS, le logiciel crée ou utilise un répertoire de travail, situé dans le dossier utilisateur, et nommé SpoutnX.
-A chaque fois que l'utilisateur fait un calcul, les résultats s'enregistrent dans un fichier data.sptx. Lorsque l'utilisateur veut enregistrer son fichier, c'est ce fichier qui est renommé et déplacé dans l'emplacement de son choix. Ce répertoire contient aussi le fichier langue, ainsi que le fichier user.txt, qui contient pour l'instant uniquement la métrique perso de l'utilisateur si il en a rentré une. Quand l'utilisateur ouvre une visualisation, un fichier pngplot.png se crée également dans le répertoire de travail.
-Le logiciel fonctionne avec des fichiers langue, qui contiennent ligne par ligne tous les textes à afficher.
+Quelque soit le système d'exploitation, le logiciel crée ou utilise un répertoire de travail, situé dans le dossier utilisateur, et nommé SpoutnX (.SpoutnX sur linux).
+A chaque fois que l'utilisateur fait un calcul, les résultats s'enregistrent dans un fichier data.sptx. 
+Lorsque l'utilisateur veut enregistrer son fichier, c'est ce fichier qui est renommé et déplacé dans l'emplacement de son choix. 
+Ce répertoire contient (ou peut contenir suivant l'utilisation):
+	- le fichier data.sptx
+	- le fichier langue (un fichier qui contient ligne par ligne tous les éléments textuels, et qui est lu par le logiciel)
+	- le fichier config.ini, qui contient pour l'instant uniquement la version du logiciel et la langue choisie par l'utilisateur (cela devrait rapidement changer)
+	- le fichier user.txt, qui contient la métrique personnelle de l'utilisateur, s'il en a rentré une (fichier voué à disparaître)
+	- le fichier pngplot.png, qui contient la dernière visualisations réalisée par l'utilisateur
 
-Architecture du fichier .sptx:
+Architecture des fichier .sptx:
 - ligne 1: numéro correspondant à l'objectif choisi par l'utilisateur
 - ligne 2: numéro correspondant au sous-objectif
 - lignes 3 - ... : chiffres correspondants aux données fournies par l'utilisateur et aux calculs intermédiaires
